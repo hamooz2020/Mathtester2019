@@ -23,8 +23,8 @@ public class Main {
         System.out.println("firstNumber - secondNumber is "+ (secondNumber-firstNumber));
         System.out.println("firstNumber / secondNumber is "+ (secondNumber/firstNumber));
         System.out.println("firstNumber * secondNumber is "+ (secondNumber*firstNumber));
-        System.out.println("The modulus of the secondNmber by the firstNumber" +
-                "is "+ (firstNumber+secondNumber));
+        System.out.println("The modulus of the secondNumber by the firstNumber" +
+                " is "+ (secondNumber%firstNumber));
 
 
 
